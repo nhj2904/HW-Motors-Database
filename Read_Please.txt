@@ -1,0 +1,7 @@
+LINK FOR ER DIAGRAM (draw.io)
+https://app.diagrams.net/#G1H4x4rFpmjyUJcn4zsx-RYaEMdSFweA75#%7B%22pageId%22%3A%22EeX8J4bKYgTNJy5ukjys%22%7D
+
+LINK TO GOOGLE DRIVE FOR ER DIAGRAM
+https://drive.google.com/file/d/1H4x4rFpmjyUJcn4zsx-RYaEMdSFweA75/view
+
+**Please open the ER Diagram in draw.io using the google drive file**
